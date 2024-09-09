@@ -1,0 +1,9 @@
+This script allow a zoom meeting to automatically run with no human interference.
+it turns on the zoom workspace app 
+click the join button
+input the meeting id and password
+turn on the mute function
+turn on the full screen function.
+
+This can serve as scheduled meeting if user adds it to a task scheduler, so the script run by it self at a particular time.
+for this to work well it is advisable to put it in a .bat file.
