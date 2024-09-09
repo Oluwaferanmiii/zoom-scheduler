@@ -35,12 +35,12 @@ def start_zoom_meeting():
             return
         
 
-        pyautogui.typewrite(' 872 5281 6057')
+        pyautogui.typewrite('#Meetind-id')
         pyautogui.press('enter')
         
         time.sleep(2)
         
-        pyautogui.typewrite('P8NHMM')
+        pyautogui.typewrite('#Password')
         pyautogui.press('enter')
 
     except Exception as e:
